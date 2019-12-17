@@ -1,0 +1,6 @@
+model_checkpoint_path: "."
+all_model_checkpoint_paths: "../51"
+all_model_checkpoint_paths: "../52"
+all_model_checkpoint_paths: "../53"
+all_model_checkpoint_paths: "../54"
+all_model_checkpoint_paths: "."
